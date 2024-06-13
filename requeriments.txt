@@ -1,0 +1,6 @@
+pip install Flask
+pip install flask-restful
+pip install flask_migrate
+pip install flask_wtf
+pip install pyodbc
+pip install requests
